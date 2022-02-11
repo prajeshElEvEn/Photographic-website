@@ -1,2 +1,7 @@
 # Photographic-website
-Project 
+
+Project
+
+## Author
+
+[@ayushsiloiya619](https://github.com/ayushsiloiya619)
